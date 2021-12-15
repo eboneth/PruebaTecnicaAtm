@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Registrar datos personales y visualizar en la tabla","Como usuario registrado debo poder registrar los datos de algun usuario y verlos reflejados en la tabla.","SUCCESS","2021-11-29T09:39:34.606-05:00[America/Bogota]","0.0","17.48"
+"Eliminar usuario en la tabla","Como usuario debo poder eliminar los datos de algun usuario en la tabla.","SUCCESS","2021-11-29T09:39:52.085-05:00[America/Bogota]","0.0","16.11"
+"Ingresar valores al datepicker","como usuario debo poder ingresar una fecha al campo select date y al campo date and time respectivamente","SUCCESS","2021-11-29T09:40:08.232-05:00[America/Bogota]","0.0","20.74"
+"Interactual con las 4 opciones de Alert","Como usuario debo ingresar a la opcion Alerts y poder interactuar con las 4 opciones","SUCCESS","2021-11-29T09:40:28.967-05:00[America/Bogota]","0.0","23.46"
